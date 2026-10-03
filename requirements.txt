@@ -1,0 +1,8 @@
+pygame==2.6.1
+gymnasium
+stable-baselines3
+torch
+numpy
+pandas
+matplotlib
+streamlit
