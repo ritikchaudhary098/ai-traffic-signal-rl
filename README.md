@@ -517,6 +517,6 @@ Possible improvements include:
 B.Tech Computer Science Engineering
 Artificial Intelligence & Machine Learning
 
-GitHub: **[Add your GitHub profile link]**
+GitHub: **[https://github.com/ritikchaudhary098]**
 
-LinkedIn: **[Add your LinkedIn profile link]**
+LinkedIn: **[https://www.linkedin.com/in/ritik-chaudhary-6712b0289/?isSelfProfile=true]**
