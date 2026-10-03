@@ -509,6 +509,9 @@ Possible improvements include:
 * Cloud deployment of the dashboard
 
 ---
+## 🚀 Live Dashboard
+
+👉 [View Live Traffic Signal Dashboard]-- (https://ai-traffic-signal-rl-en8qzbyzhipogjhsevcdfa.streamlit.app/)
 
 ## 👨‍💻 Author
 
